@@ -1,0 +1,6 @@
+label[for="mastercard"],
+label[for="visa"],
+label[for="diners-club"],
+label[for="amex"] {
+    margin-right: 20px;
+}
